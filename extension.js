@@ -149,7 +149,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "Troll-botX",
+        botName: "NightBotX",
         language: "english",
         chatLink: "https://rawgit.com/BrabbitX/basicBot/master/lang/en.json",
         maximumAfk: 120,
@@ -181,7 +181,7 @@
         afkRankCheck: "ambassador",
         motdEnabled: true,
         motdInterval: 31,
-        motd: " Since plug is going to shut down, we are moving to https://synctube.org/r/Nightcore-Fanclub join us! It's still a new site and needs improvements, but it will get there! " ,
+        motd: " Enjoy the Music and please follow the rules  " ,
         filterChat: true,
         etaRestriction: true,
         welcome: false,
