@@ -204,6 +204,6 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript('https://rawgit.com/BrabbitX/basicBot/master/basicBot.js', extend);
+    $.getScript('https://raw.githubusercontent.com/Clannadd/NightbotX/master/NightBotX', extend);
 
 }).call(this);
