@@ -182,7 +182,7 @@ API.getWaitListPosition = function(id){
         status: false,
         name: "basicBot",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/BrabbitX/basicBot-customization/master/extension.js",
+        scriptLink: "https://raw.githubusercontent.com/Clannadd/NightbotX/master/extension.js",
         cmdLink: "http://git.io/245Ppg",
         chatLink: "https://rawgit.com/BrabbitX/basicBot/master/lang/en.json",
         chat: null,
